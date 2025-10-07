@@ -1,0 +1,8 @@
+{
+  "/api/*": {
+    "target": "https://detectorboletos.onrender.com",
+    "secure": true,
+    "changeOrigin": true,
+    "logLevel": "debug"
+  }
+}
